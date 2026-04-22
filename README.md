@@ -8,8 +8,5 @@ Perceptron much more biological neuron-like than perceptrons in current use. Wit
 
 One neuron from this project CAN be XOR gate.
 
-Imagine, that you have just a small python board in application that process sensor data into project response. For example - autonomic vechicle. This ML tool should learn when to turn - without supervision of user. It should be also light for very low inference times on uC.
-
-Just script, as you dont need binaries here or 'lite' versions of libraries (eg. tensorflow)
-
-here is a trial - still under developement, but first results are promising.
+Inputs and outputs are 'colored' here, depending on 'receptor'. And these colors can mix differently. Those numbers are no longer 'just floats'.
+More tommorow
