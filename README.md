@@ -8,5 +8,5 @@ Perceptron much more biological neuron-like than perceptrons in current use. Wit
 
 One neuron from this project CAN be XOR gate.
 
-Inputs and outputs are 'colored' here, depending on 'receptor'. And these colors can mix differently. Those numbers are no longer 'just floats'.
+Inputs and outputs are 'colored' here, depending on 'receptor' assignment. And these colors can mix differently. Those numbers are no longer 'just floats'.
 More tommorow
